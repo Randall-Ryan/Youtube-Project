@@ -1,0 +1,4 @@
+- take a video as an input
+- edit the video to remove the sound -> create a sound to add to the video
+    - ai generated story telling (reddit like tik tok)
+- upload video to youtube

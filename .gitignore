@@ -1,0 +1,7 @@
+.env
+/logs
+client_secrets.json
+final_clip.mp4
+league_clip_1.mp4
+audio_clip.mp3
+upload_video.py-oauth2.json
